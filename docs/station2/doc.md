@@ -1,4 +1,4 @@
 # 要件定義
 
-ここにマークダウン形式のテキストやリンクを記載する。
-※リンクの場合は、リンクを知っている全員が閲覧できるように権限設定してください。
+## ドキュメントリンク
+[要件定義](https://docs.google.com/document/d/11cnajOAjM6kKesnPtTB3Na5OxPWY5VFxgOFOxl1C0ug/edit?tab=t.0)
